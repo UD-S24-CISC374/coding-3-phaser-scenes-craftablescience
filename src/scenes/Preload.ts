@@ -35,7 +35,7 @@ export default class Preload extends Phaser.Scene {
         // Scene 3
         this.load
             .image('merp', 'assets/img/nepeta/merp.png')
-            .image('read', 'assets/img/nepeta/read.gif');
+            .image('read', 'assets/img/nepeta/read.png');
         for (let i = 0; i <= 1; i++) {
             this.load.image(`bleh${i}`, `assets/img/nepeta/bleh${i}.png`);
         }

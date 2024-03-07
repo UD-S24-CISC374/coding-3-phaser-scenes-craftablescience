@@ -1,0 +1,7 @@
+export default {
+    FADE_DURATION: 250,
+
+    FADE_COLOR_RED: 102,
+    FADE_COLOR_GREEN: 173,
+    FADE_COLOR_BLUE: 255,
+};
